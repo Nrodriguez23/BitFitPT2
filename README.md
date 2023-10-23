@@ -2,7 +2,7 @@
 
 Submitted by: **Nathaniel Rodriguez**
 
-**BitFitPart2** is a health metrics app that allows users to track ... [TODO] 
+**BitFitPart2** is a health metrics app that allows users to track of your sleep 
 
 Time spent: **4.5** hours spent in total
 
