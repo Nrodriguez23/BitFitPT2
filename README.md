@@ -1,6 +1,6 @@
 # Android Project 5 - *BitFitPart2*
 
-Submitted by: **Sayan Patel**
+Submitted by: **Nathaniel Rodriguez**
 
 **BitFitPart2** is a health metrics app that allows users to track ... [TODO] 
 
