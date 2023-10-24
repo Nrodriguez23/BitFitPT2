@@ -1,10 +1,10 @@
-# Android Project 5 - *BitFitPart2*
+# Android Project 6 - *FitBit Sleeper*
 
 Submitted by: **Nathaniel Rodriguez**
 
-**BitFitPart2** is a health metrics app that allows users to track of your sleep 
+**Name of your app** is a health metrics app that allows users to track ... [TODO] 
 
-Time spent: **4.5** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
+- [x] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
 - [ ] **Implement daily notifications to prompt users to fill in their data**
 
 The following **additional** features are implemented:
@@ -27,8 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![BitFitPart2](https://user-images.githubusercontent.com/123009393/222535147-a270062a-3200-45a3-a500-046b3d594c1c.gif)
-
+<img src='Walkthrough.gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
