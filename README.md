@@ -2,9 +2,9 @@
 
 Submitted by: **Nathaniel Rodriguez**
 
-**Name of your app** is a health metrics app that allows users to track ... [TODO] 
+**FitBit Sleeper** is a health metrics app that allows users to track sleep 
 
-Time spent: **8** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
